@@ -124,10 +124,11 @@ opencv-python
 Pillow
 numpy
 ultralytics
-openvino
 torch
 torchvision
 ```
+~~openvino~~(Work in progress to implement support for Intel GPUs)
+
 
 > **NVIDIA GPU users:** Install CUDA-enabled PyTorch from [pytorch.org](https://pytorch.org) before running pip install.
 
